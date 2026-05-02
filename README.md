@@ -106,4 +106,4 @@ We have exciting plans to elevate the Lily Restaurant platform with the followin
 
 ---
 *Designed with ❤️ by [Your Name/Team]*
-admin -----password----admin123
+admin -----password----
